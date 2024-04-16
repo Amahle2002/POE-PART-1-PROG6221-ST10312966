@@ -36,7 +36,7 @@
                         myRecipe.EnterRecipeDetails(); // Enter recipe details
                         break;
                     case 2:
-                        myRecipe.DisplayRecipe(); // Display recipe
+                        myRecipe.DisplayRecipe(); // Display infor
                         break;
                     case 3:
                         myRecipe.ScaleRecipe(); // Scale recipe
