@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MyRecipeApp1
 {
-
+    // Class to represent an ingredient in a recipe
     internal class MyIngredient
     {
         // Properties
