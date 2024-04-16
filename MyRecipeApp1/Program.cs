@@ -62,3 +62,9 @@
         }
     }
 }
+/*--------------------code attribution--------------------
+ * The following method was taken from StackOverFlow:
+ * Author : Prasanth Jaya
+ * link: htpps://https://stackoverflow.com/questions/24443827/reading-an-integer-from-user-input
+ * int intTemp = Convert.ToInt32(Console.ReadLine());
+ */
