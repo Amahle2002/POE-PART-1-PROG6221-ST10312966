@@ -9,7 +9,7 @@
 
             while (!exit)
             {
-                // Display menu options
+                // Display all the menu options
                 Console.WriteLine("*********************************");
                 Console.WriteLine("1. Enter recipe details");
                 Console.WriteLine("2. Display recipe");
